@@ -1,0 +1,10 @@
+/* bugSolution.css */
+#container {
+  width: 50%;
+  /* Avoid using calc() with percentages and pixels together */
+}
+
+#element {
+  width: 50%;
+  /* Use consistent units or different approaches */
+} 
